@@ -193,10 +193,12 @@
     }
 
     // 썸네일 (fr): li 배경 (interior[3], interior[4])
+    // 모바일 조각컷도 같은 장을 쓴다 — 예전에는 모바일만 interior[0], [1] 이라 PC 와 사진이 달랐다.
+    var THUMB_OFFSET = 3;
     var thumbs = document.querySelector('[data-room-thumbs]');
     if (thumbs) {
       thumbs.querySelectorAll('li').forEach(function (li, i) {
-        var img = interior[i + 3];
+        var img = interior[i + THUMB_OFFSET];
         if (img && img.url) {
           li.style.background = 'url(' + img.url + ') no-repeat center center';
         } else {
@@ -205,11 +207,11 @@
       });
     }
 
-    // 썸네일 (mobile): li > img
+    // 썸네일 (mobile): li > img — PC 와 같은 interior[3], [4]
     var thumbsM = document.querySelector('[data-room-thumbs-m]');
     if (thumbsM) {
       thumbsM.querySelectorAll('li img').forEach(function (img, i) {
-        var src = interior[i];
+        var src = interior[i + THUMB_OFFSET];
         if (src && src.url) {
           img.src = src.url;
           img.alt = '';

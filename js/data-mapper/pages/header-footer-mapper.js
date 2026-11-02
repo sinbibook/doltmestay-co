@@ -169,8 +169,12 @@
   };
 
   // MAPPER: property.ybsId → [data-ybs-button] (없으면 숨김)
+  //                        → [data-ybs-badge] 예약하기 위 「특가」 배지 (운영 요청: YBS 가 켜진 숙소만)
   HeaderFooterMapper.prototype.mapYbs = function () {
     var ybsId = this.getProperty().ybsId;
+    document.querySelectorAll('[data-ybs-badge]').forEach(function (el) {
+      el.style.display = ybsId ? '' : 'none';
+    });
     document.querySelectorAll('[data-ybs-button]').forEach(function (el) {
       if (!ybsId) {
         el.style.display = 'none';
