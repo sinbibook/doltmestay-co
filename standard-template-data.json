@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-11-02T07:24:47.953209597Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-11-02T07:26:45.894112506Z",
     "templateType": "trip_d",
     "propertyId": "01a1423a-2791-713c-bb2c-499657cea034",
     "homepageId": "01a19aca-a0ae-77a9-8bc5-b0d5b0a91589"
@@ -167,11 +167,44 @@
         ]
       },
       {
+        "id": "01a19b26-b26b-7a78-b1a0-4637a5752d25",
+        "name": "잔디마당",
+        "description": "푸른 잔디와 함께 펼쳐지는 편안한 공간에서\n햇살과 바람이 머무는 여유로운 하루를 즐겨보세요.",
+        "usageGuide": "",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a19b26-bcc3-709f-803a-f2772fbf3c9b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a19b26-b26b-7a78-b1a0-4637a5752d25/main/1793604368988-ofp7pztqqc.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19b26-bbd2-7c65-8e85-ef4add1b57ae",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a19b26-b26b-7a78-b1a0-4637a5752d25/main/1793604368994-nplqtnak6q.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19b26-bcbe-7ff4-a9a9-219664be5eb1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a19b26-b26b-7a78-b1a0-4637a5752d25/main/1793604369015-fvirxqwbkk.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "01a15d0c-6ed0-7598-9c5e-df1b8d422bf3",
         "name": "편의 및 주변 시설",
         "description": "",
         "usageGuide": "- 화장실 및 출입구 휠체어 이용 가능\n- 와이파이: 보유\n- 화재감지기: 보유\n- 일산화탄소감지기: 보유\n- 넷플릭스 이용: 가능\n※ 넷플릭스 개인계정 필요\n- OTT ,디즈니+, 티빙가능 : 가능\n※ OTT,  디즈니+, 티빙 개인계정 필요: 필요\n- 보문관광단지: 차량 약 10분\n- 경주 루지월드 / 경주월드: 차량 약 15분\n- 황리단길 / 첨성대: 차량 약 20분",
-        "displayOrder": 3,
+        "displayOrder": 4,
         "images": [
           {
             "id": "01a19ad6-f77e-7231-85e3-58552e7cb877",
