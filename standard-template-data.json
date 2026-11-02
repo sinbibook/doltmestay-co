@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-11-02T06:31:11.656879302Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-11-02T06:45:28.508753586Z",
     "templateType": "trip_d",
     "propertyId": "01a1423a-2791-713c-bb2c-499657cea034",
     "homepageId": "01a19aca-a0ae-77a9-8bc5-b0d5b0a91589"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분",
-    "usageGuide": "[공지사항]\n- 실내 전체 금연, 보호자 동반 없는 미성년자 투숙 불가\n- 평일 출장이나 힐스카이cc 이용 고객님 바베큐 이용 없이 숙박만 하시는 분  30%할인\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 84개월 이상~14세 미만\n- 유아: 84개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n\n[개별바베큐]\n- 이용 장소: 독채 마당 \n- 바베큐 형태: 숯불 바베큐\n- 제공 구성: 숯, 그릴\n- 이용 요금: 30,000원(1박기준/현장결제)\n- 신청 시간:  ~ 17:00\n- 이용 시간: ~ 22:00\n- 우천 시: 이용 불가\n- 강풍 시: 이용 불가\n- 동계 시: 이용 가능\n※ 추가 인원 요금, 준비 소요시간은 없습니다.\n※ 음식, 식기류는 객실 내 용품 이용해주시고 양념은 개인별로 직접 준비하셔야 합니다.\n※ 쾌적한 객실 환경 유지 및 화재 예방을 위해 객실 내(실내)에서는 육류 및 생선류 구이가 엄격히 금지됩니다.\n\n[애견동반]\n- 애견 동반 불가\n\n[불멍]\n- 운영 기간: 연중무휴\n- 이용 장소: 독채 전용 마당\n- 제공 구성: 화롯대, 장작, 오로라 가루, 토치, 장갑 등 불멍 세트\n- 이용 요금: 30,000원(1박기준/현장결제) \n- 신청 시간: ~17:00\n- 이용 시간:  ~ 22:00\n- 우천 시: 불가\n※ 강풍 시: 이용 불가 \n※ 동계 시: 이용 가능\n※ 개인 불멍 용품(화롯대, 연료 등) 지참 불가\n※ 외부 장작 반입: 불가 (숙소 제공 정품 장작 및 전용 장비만 사용 가능)\n\n[편의 및 주변 시설]\n- 화장실 및 출입구 휠체어 이용 가능\n- 와이파이: 보유\n- 화재감지기: 보유\n- 일산화탄소감지기: 보유\n- 넷플릭스 이용: 가능\n※ 넷플릭스 개인계정 필요\n- OTT ,디즈니+, 티빙가능 : 가능\n※ OTT,  디즈니+, 티빙 개인계정 필요: 필요\n- 보문관광단지: 차량 약 10분\n- 경주 루지월드 / 경주월드: 차량 약 15분\n- 황리단길 / 첨성대: 차량 약 20분\n\n[주차장]\n- 주차장: 보유\n- 이용 요금: 무료\n- 주차 대수: 4대\n- 위치: 숙소 앞 마당\n[전기차 충전기 이용 금액]\n- 소형 12,000  \n- 중형 16,000 \n- 대형SUV 24,000\n\n[교통편]\n- 대중교통: 경주시외버스터미널/경주역(KTX)에서 천북면 방면 시내버스 이용 후 도보 이동\n※ 배차 간격이 길어 택시 또는 자가용 이용 권장",
+    "usageGuide": "- 실내 전체 금연, 보호자 동반 없는 미성년자 투숙 불가\n- 평일 출장이나 힐스카이cc 이용 고객님 바베큐 이용 없이 숙박만 하시는 분  30%할인\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 84개월 이상~14세 미만\n- 유아: 84개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 10,000원, 유아 무료\n(1박기준/현장결제)\n\n[개별바베큐]\n- 이용 장소: 독채 마당 \n- 바베큐 형태: 숯불 바베큐\n- 제공 구성: 숯, 그릴\n- 이용 요금: 30,000원(1박기준/현장결제)\n- 신청 시간:  ~ 17:00\n- 이용 시간: ~ 22:00\n- 우천 시: 이용 불가\n- 강풍 시: 이용 불가\n- 동계 시: 이용 가능\n※ 추가 인원 요금, 준비 소요시간은 없습니다.\n※ 음식, 식기류는 객실 내 용품 이용해주시고 양념은 개인별로 직접 준비하셔야 합니다.\n※ 쾌적한 객실 환경 유지 및 화재 예방을 위해 객실 내(실내)에서는 육류 및 생선류 구이가 엄격히 금지됩니다.\n\n[애견동반]\n- 애견 동반 불가\n\n[불멍]\n- 운영 기간: 연중무휴\n- 이용 장소: 독채 전용 마당\n- 제공 구성: 화롯대, 장작, 오로라 가루, 토치, 장갑 등 불멍 세트\n- 이용 요금: 30,000원(1박기준/현장결제) \n- 신청 시간: ~17:00\n- 이용 시간:  ~ 22:00\n- 우천 시: 불가\n※ 강풍 시: 이용 불가 \n※ 동계 시: 이용 가능\n※ 개인 불멍 용품(화롯대, 연료 등) 지참 불가\n※ 외부 장작 반입: 불가 (숙소 제공 정품 장작 및 전용 장비만 사용 가능)\n\n[편의 및 주변 시설]\n- 화장실 및 출입구 휠체어 이용 가능\n- 와이파이: 보유\n- 화재감지기: 보유\n- 일산화탄소감지기: 보유\n- 넷플릭스 이용: 가능\n※ 넷플릭스 개인계정 필요\n- OTT ,디즈니+, 티빙가능 : 가능\n※ OTT,  디즈니+, 티빙 개인계정 필요: 필요\n- 보문관광단지: 차량 약 10분\n- 경주 루지월드 / 경주월드: 차량 약 15분\n- 황리단길 / 첨성대: 차량 약 20분\n\n[주차장]\n- 주차장: 보유\n- 이용 요금: 무료\n- 주차 대수: 4대\n- 위치: 숙소 앞 마당\n[전기차 충전기 이용 금액]\n- 소형 12,000  \n- 중형 16,000 \n- 대형SUV 24,000\n\n[교통편]\n- 대중교통: 경주시외버스터미널/경주역(KTX)에서 천북면 방면 시내버스 이용 후 도보 이동\n※ 배차 간격이 길어 택시 또는 자가용 이용 권장",
     "reservationGuide": "- 실내 전체 금연, 보호자 동반 없는 미성년자 투숙 불가\n- 평일 출장이나 힐스카이cc 이용 고객님 바베큐 이용 없이 숙박만 하시는 분  30%할인",
     "province": "도/시",
     "city": "시/군/구",
@@ -67,6 +67,47 @@
       "securityDeposit": 0
     },
     "facilities": [
+      {
+        "id": "01a19ac9-c8f8-751c-8952-740711492610",
+        "name": "촌캉스",
+        "description": "마당에 앉아 바람을 쐬고,\n정겨운 풍경 속에서 느긋하게 쉬어가세요.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a19b00-d4e1-7069-900a-db0f3e31b0fc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a19ac9-c8f8-751c-8952-740711492610/main/1793601883518-ys34wjns0e.JPG",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19b00-d54b-7b80-98eb-4d26ae60121c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a19ac9-c8f8-751c-8952-740711492610/main/1793601883519-pxn0vpqm5s.JPG",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19b00-d5a9-71ac-b3b3-1901b6c091c2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a19ac9-c8f8-751c-8952-740711492610/main/1793601883733-0btlz6z6kn.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19b00-d42a-703f-bfbd-caf0443adaae",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a19ac9-c8f8-751c-8952-740711492610/main/1793601883731-8udxivqcdz.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
       {
         "id": "01a15d0c-6ecd-7270-b781-69fd24d5a245",
         "name": "개별바베큐",
@@ -226,7 +267,7 @@
           {
             "id": "01a18bee-ff07-7a33-afe8-04d9b851df5e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/ZtmAHv6R39TQ.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -236,7 +277,7 @@
           {
             "id": "01a18bee-ff0f-706f-bcc5-34b5385fc795",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/jLWZCPE8rJ9q.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -244,7 +285,7 @@
           {
             "id": "01a18bee-ff0f-716d-b219-34e7056c0123",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/d9sobNw5ntyX.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -252,7 +293,7 @@
           {
             "id": "01a18bee-ff0f-719d-b299-f5536ed4db18",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/wBuEg5LS9dex.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -260,7 +301,7 @@
           {
             "id": "01a18bee-ff0f-71d8-94c0-7230ab9836cf",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/vmByeOAI1zaQ.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -268,7 +309,7 @@
           {
             "id": "01a18bee-ff0f-723b-bd5a-d398ab399f0e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/m9TZJfS8jnvc.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -276,7 +317,7 @@
           {
             "id": "01a18bee-ff0f-7269-a662-b07769d72e10",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/uM14GkpiW75b.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -284,7 +325,7 @@
           {
             "id": "01a18bee-ff0f-7295-8676-02e114bd07e1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/UXGsQ3NRdkeO.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -292,7 +333,7 @@
           {
             "id": "01a18bee-ff0f-72b4-ada0-674a71def855",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/T3fKRhuGyv7V.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -300,7 +341,7 @@
           {
             "id": "01a18bee-ff0f-72cd-9ea9-fd45352a2cc9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/JLw9gpSN7I2C.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -764,7 +805,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "A Slower Day in Nature",
                 "images": [
                   {
                     "id": "01a19adc-6169-7934-b771-f0681aabae35",
