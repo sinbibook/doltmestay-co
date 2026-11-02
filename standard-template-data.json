@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-11-02T06:46:11.857704951Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-11-02T06:50:40.814503160Z",
     "templateType": "trip_d",
     "propertyId": "01a1423a-2791-713c-bb2c-499657cea034",
     "homepageId": "01a19aca-a0ae-77a9-8bc5-b0d5b0a91589"
@@ -743,7 +743,7 @@
                 "images": [ ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "바쁜 일상에서 벗어나 잠시 쉬어가고 싶은 날,\n정겨운 풍경 속에서 소중한 사람과 느긋한 시간을 보내세요.\n경주 돌트미스테이 마음 편히 머무는 하루를 만나보세요."
               },
               "essence": {
                 "title": "A Slower Day in Nature",
