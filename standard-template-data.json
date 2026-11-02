@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-11-02T07:34:21.243482823Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-11-02T07:46:27.409685714Z",
     "templateType": "trip_d",
     "propertyId": "01a1423a-2791-713c-bb2c-499657cea034",
     "homepageId": "01a19aca-a0ae-77a9-8bc5-b0d5b0a91589"
@@ -662,7 +662,7 @@
       "title": "",
       "description": "",
       "keywords": "",
-      "naverSiteVerification": "",
+      "naverSiteVerification": "74c11f9eb16006ccca95503fdf0f8350b40b6033",
       "googleSiteVerification": ""
     },
     "socialLinks": {
