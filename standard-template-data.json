@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-11-02T06:45:28.508753586Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-11-02T06:46:11.857704951Z",
     "templateType": "trip_d",
     "propertyId": "01a1423a-2791-713c-bb2c-499657cea034",
     "homepageId": "01a19aca-a0ae-77a9-8bc5-b0d5b0a91589"
@@ -888,7 +888,7 @@
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": "나무와 풀빛이 어우러진 경주 돌트미스테이에서\n바쁘게 흘러가던 일상의 속도를 잠시 늦춰보세요.\n\n정원을 바라보며 바람을 느끼고,\n서두를 일 없이 느긋하게 쉬어가는 하루를 보내세요."
               },
               "about": [
                 {
