@@ -1,0 +1,738 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "generatedAt": "2026-11-02T05:59:32.164322292Z",
+    "templateType": "trip_d",
+    "propertyId": "01a1423a-2791-713c-bb2c-499657cea034",
+    "homepageId": "01a19aca-a0ae-77a9-8bc5-b0d5b0a91589"
+  },
+  "property": {
+    "id": "01a1423a-2791-713c-bb2c-499657cea034",
+    "name": "경주 돌트미스테이",
+    "nameEn": "Dolt Me Stay",
+    "description": "경주 돌트미스테이는 자연에 둘러싸인 아늑한 공간에서 야외 바비큐와 불멍을 즐기며 온전한 휴식을 누릴 수 있는 프라이빗 독채 힐링 숙소입니다.",
+    "subtitle": "",
+    "address": "경북 경주시 천북면 돌트미길 25 돌트미스테이 펜션",
+    "latitude": 35.9016517262997,
+    "longitude": 129.28786644776,
+    "contactPhone": [
+      "010-9427-0591"
+    ],
+    "contactEmail": "",
+    "checkin": "15:00",
+    "checkout": "11:00",
+    "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분",
+    "usageGuide": "- 실내 전체 금연, 보호자 동반 없는 미성년자 투숙 불가\n- 평일 출장이나 힐스카이cc 이용 고객님 바베큐 이용 없이 숙박만 하시는 분  30%할인\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 84개월 이상~14세 미만\n- 유아: 84개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 10,000원, 유아 무료\n(1박기준/현장결제)\n\n[개별바베큐]\n- 이용 장소: 독채 마당 \n- 바베큐 형태: 숯불 바베큐\n- 제공 구성: 숯, 그릴\n- 이용 요금: 30,000원(1박기준/현장결제)\n- 신청 시간:  ~ 17:00\n- 이용 시간: ~ 22:00\n- 우천 시: 이용 불가\n- 강풍 시: 이용 불가\n- 동계 시: 이용 가능\n※ 추가 인원 요금, 준비 소요시간은 없습니다.\n※ 음식, 식기류는 객실 내 용품 이용해주시고 양념은 개인별로 직접 준비하셔야 합니다.\n※ 쾌적한 객실 환경 유지 및 화재 예방을 위해 객실 내(실내)에서는 육류 및 생선류 구이가 엄격히 금지됩니다.\n\n[애견동반]\n- 애견 동반 불가\n\n[불멍]\n- 운영 기간: 연중무휴\n- 이용 장소: 독채 전용 마당\n- 제공 구성: 화롯대, 장작, 오로라 가루, 토치, 장갑 등 불멍 세트\n- 이용 요금: 30,000원(1박기준/현장결제) \n- 신청 시간: ~17:00\n- 이용 시간:  ~ 22:00\n- 우천 시: 불가\n※ 강풍 시: 이용 불가 \n※ 동계 시: 이용 가능\n※ 개인 불멍 용품(화롯대, 연료 등) 지참 불가\n※ 외부 장작 반입: 불가 (숙소 제공 정품 장작 및 전용 장비만 사용 가능)\n\n[편의 및 주변 시설]\n- 화장실 및 출입구 휠체어 이용 가능\n- 와이파이: 보유\n- 화재감지기: 보유\n- 일산화탄소감지기: 보유\n- 넷플릭스 이용: 가능\n※ 넷플릭스 개인계정 필요\n- OTT ,디즈니+, 티빙가능 : 가능\n※ OTT,  디즈니+, 티빙 개인계정 필요: 필요\n- 보문관광단지: 차량 약 10분\n- 경주 루지월드 / 경주월드: 차량 약 15분\n- 황리단길 / 첨성대: 차량 약 20분\n\n[주차장]\n- 주차장: 보유\n- 이용 요금: 무료\n- 주차 대수: 4대\n- 위치: 숙소 앞 마당\n[전기차 충전기 이용 금액]\n- 소형 12,000  \n- 중형 16,000 \n- 대형SUV 24,000\n\n[교통편]\n- 대중교통: 경주시외버스터미널/경주역(KTX)에서 천북면 방면 시내버스 이용 후 도보 이동\n※ 배차 간격이 길어 택시 또는 자가용 이용 권장",
+    "reservationGuide": "- 실내 전체 금연, 보호자 동반 없는 미성년자 투숙 불가\n- 평일 출장이나 힐스카이cc 이용 고객님 바베큐 이용 없이 숙박만 하시는 분  30%할인",
+    "province": "도/시",
+    "city": "시/군/구",
+    "domain": "doltmestay.co.kr",
+    "realtimeBookingId": "",
+    "ybsId": "",
+    "tripPropertyId": "13622",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐",
+    "amenities": [
+      "주차장",
+      "흡연구역(지정장소)"
+    ],
+    "nearbyAttractions": [ ],
+    "services": [ ],
+    "propertyThemes": [ ],
+    "propertyTypes": [ ],
+    "businessInfo": {
+      "businessName": "돌트미 스테이",
+      "businessNumber": "837-64-00840",
+      "representativeName": "김현주",
+      "businessAddress": "경상북도 경주시 천북면 돌트미길 25",
+      "businessPhone": "",
+      "businessEmail": "dortemi0303@naver.com",
+      "businessType": "corporate",
+      "businessCategory": "숙박",
+      "eCommerceRegistrationNumber": ""
+    },
+    "contractInfo": {
+      "contractStartDate": "2025-09-10T00:00:00.000Z",
+      "contractEndDate": "2025-09-12T00:00:00.000Z",
+      "contractStatus": "active",
+      "contactName": "담당자명",
+      "contactEmail": "담당자 이메일",
+      "contactPhone": "담당자 전화번호",
+      "paymentTerms": null,
+      "cancellationPolicy": null,
+      "bankName": "은행명",
+      "accountNumber": "계좌번호",
+      "accountHolder": "예금주",
+      "commissionRate": 0,
+      "securityDeposit": 0
+    },
+    "facilities": [
+      {
+        "id": "01a15d0c-6ecd-7270-b781-69fd24d5a245",
+        "name": "개별바베큐",
+        "description": "",
+        "usageGuide": "- 이용 장소: 독채 마당 \n- 바베큐 형태: 숯불 바베큐\n- 제공 구성: 숯, 그릴\n- 이용 요금: 30,000원(1박기준/현장결제)\n- 신청 시간:  ~ 17:00\n- 이용 시간: ~ 22:00\n- 우천 시: 이용 불가\n- 강풍 시: 이용 불가\n- 동계 시: 이용 가능\n※ 추가 인원 요금, 준비 소요시간은 없습니다.\n※ 음식, 식기류는 객실 내 용품 이용해주시고 양념은 개인별로 직접 준비하셔야 합니다.\n※ 쾌적한 객실 환경 유지 및 화재 예방을 위해 객실 내(실내)에서는 육류 및 생선류 구이가 엄격히 금지됩니다.",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "01a19aca-17ee-7e87-89b2-c02b920fc1e6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15d0c-6ecd-7270-b781-69fd24d5a245/main/1793598296157-y5u4k87nn2.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19aca-184b-7a09-ab87-eebb3eaf33b2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15d0c-6ecd-7270-b781-69fd24d5a245/main/1793598296077-npfwn2nfue.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a15d0c-6ed0-7290-854b-ddcdbbe36f58",
+        "name": "불멍",
+        "description": "",
+        "usageGuide": "- 운영 기간: 연중무휴\n- 이용 장소: 독채 전용 마당\n- 제공 구성: 화롯대, 장작, 오로라 가루, 토치, 장갑 등 불멍 세트\n- 이용 요금: 30,000원(1박기준/현장결제) \n- 신청 시간: ~17:00\n- 이용 시간:  ~ 22:00\n- 우천 시: 불가\n※ 강풍 시: 이용 불가 \n※ 동계 시: 이용 가능\n※ 개인 불멍 용품(화롯대, 연료 등) 지참 불가\n※ 외부 장작 반입: 불가 (숙소 제공 정품 장작 및 전용 장비만 사용 가능)",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "01a19aca-2273-74f1-939c-61147d340563",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15d0c-6ed0-7290-854b-ddcdbbe36f58/main/1793598298670-gf4qycnf3v.JPG",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19aca-232f-7b03-9dc3-6c792b3cf82c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15d0c-6ed0-7290-854b-ddcdbbe36f58/main/1793598298476-v1t9cz0azv.JPG",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19aca-2284-7a8f-939e-1b285374323d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15d0c-6ed0-7290-854b-ddcdbbe36f58/main/1793598298572-6hvw0ekyii.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a15d0c-6ed0-7598-9c5e-df1b8d422bf3",
+        "name": "편의 및 주변 시설",
+        "description": "",
+        "usageGuide": "- 화장실 및 출입구 휠체어 이용 가능\n- 와이파이: 보유\n- 화재감지기: 보유\n- 일산화탄소감지기: 보유\n- 넷플릭스 이용: 가능\n※ 넷플릭스 개인계정 필요\n- OTT ,디즈니+, 티빙가능 : 가능\n※ OTT,  디즈니+, 티빙 개인계정 필요: 필요\n- 보문관광단지: 차량 약 10분\n- 경주 루지월드 / 경주월드: 차량 약 15분\n- 황리단길 / 첨성대: 차량 약 20분",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a19ad6-f77e-7231-85e3-58552e7cb877",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15d0c-6ed0-7598-9c5e-df1b8d422bf3/main/1793599140902-kqje7wgzqe.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19aca-28f0-7dcb-ba52-823bf22e3791",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15d0c-6ed0-7598-9c5e-df1b8d422bf3/main/1793598301471-njyth6oakh.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19aca-2839-78b6-a533-3a2fa29b533d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15d0c-6ed0-7598-9c5e-df1b8d422bf3/main/1793598301441-ss2unfa18i.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19aca-283e-7548-a2e7-3b1b9f7cb117",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15d0c-6ed0-7598-9c5e-df1b8d422bf3/main/1793598301547-9zddskrw6g.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 10,
+        "refundRate": 100
+      },
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
+      },
+      {
+        "refundProcessingDays": 5,
+        "refundRate": 50
+      },
+      {
+        "refundProcessingDays": 4,
+        "refundRate": 40
+      },
+      {
+        "refundProcessingDays": 3,
+        "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 2,
+        "refundRate": 20
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 10
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      }
+    ],
+    "refundSettings": {
+      "customerRefundNotice": "",
+      "immediateRefundEnabled": true,
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "10",
+      "sameDayReservationHourLimit": "0"
+    },
+    "images": [
+      {
+        "thumbnail": [
+          {
+            "id": "01a18bee-ff07-7a33-afe8-04d9b851df5e",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/ZtmAHv6R39TQ.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "01a18bee-ff0f-706f-bcc5-34b5385fc795",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/jLWZCPE8rJ9q.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a18bee-ff0f-716d-b219-34e7056c0123",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/d9sobNw5ntyX.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a18bee-ff0f-719d-b299-f5536ed4db18",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/wBuEg5LS9dex.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a18bee-ff0f-71d8-94c0-7230ab9836cf",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/vmByeOAI1zaQ.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a18bee-ff0f-723b-bd5a-d398ab399f0e",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/m9TZJfS8jnvc.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a18bee-ff0f-7269-a662-b07769d72e10",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/uM14GkpiW75b.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a18bee-ff0f-7295-8676-02e114bd07e1",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/UXGsQ3NRdkeO.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a18bee-ff0f-72b4-ada0-674a71def855",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/T3fKRhuGyv7V.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a18bee-ff0f-72cd-9ea9-fd45352a2cc9",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/30/JLw9gpSN7I2C.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "surrounding": [ ],
+        "commonArea": [ ]
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "id": "01a15cdf-6e37-7a28-a60e-54a3092547eb",
+      "name": "독채",
+      "description": "독채형+분리형, 거실1+침대룸(더블침대1)+침대룸(싱글침대1)+주방1+화장실1\r\n20평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,정수기,비데,식탁,전자레인지",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 66.12,
+      "baseOccupancy": 4,
+      "maxOccupancy": 8,
+      "totalRoomCount": {
+        "bedroom": 2,
+        "bathroom": 1,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 2,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "비데",
+        "에어컨",
+        "TV",
+        "취사시설/도구",
+        "전기밥솥",
+        "냉장고",
+        "전자레인지",
+        "정수기",
+        "금연",
+        "남녀공용",
+        "욕실용품",
+        "식탁"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "독채",
+        "분리형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "01a199e3-5d7a-7484-abbe-c9d6b9bdafd5",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/AZLH7VdFaoP1.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "01a199e3-5d7a-7900-b0df-7f6f515503e7",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/AVEl3W72TaIb.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7a-7af0-aa30-19ca7ecd3b65",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/WI2xARfO5ih1.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7a-7bc6-a80f-1d6886027fe7",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/AclEy2RzPKWB.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7a-7e72-b72a-ecfb0d031f8d",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/FeYDNJXcKd9A.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7a-7f38-ac2a-edfbbcf289c9",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/hCUqoBtwXjpl.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7b-71ac-a905-9959d5452d3e",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/Q7uVw3ERrBJn.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7b-7275-8fff-df1b8b92b23e",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/azZpnq4LIvN2.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7b-7b67-8421-50798d9bb574",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/z3c0j6RCJg87.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7b-7d78-b033-73698fe4f8ea",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/jW8vpykusf5w.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7c-7018-a7c1-ea98e41dfbc1",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/hOH6uNJrYV8C.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7c-730f-8f27-e22783a0d9a7",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/DUq3NnH7RSVB.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7c-759f-a9c4-c8d8bd7ecb04",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/3tzsGj7y5ESu.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7c-7677-8370-a893ae7be2cd",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/7kqYLKnb04JC.jpg",
+              "sortOrder": 14,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7c-7858-9350-e3eb8ad29bf7",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/rvK4PJE2Fikn.jpg",
+              "sortOrder": 15,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7c-78d8-bf5a-afb2605250ca",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/HiFfD89OsL6C.jpg",
+              "sortOrder": 16,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7c-7ac5-9733-59b05fc06fb6",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/4lA3dc1OiJ9S.jpg",
+              "sortOrder": 17,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7c-7bc8-b640-656b30ec0a48",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/ifmTLA3Gsh8U.jpg",
+              "sortOrder": 18,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a199e3-5d7c-7c33-9f55-c1349eebba78",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/10/30/RYaVFnvmt1IU.jpg",
+              "sortOrder": 19,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 1
+    }
+  ],
+  "homepage": {
+    "id": "01a19aca-a0ae-77a9-8bc5-b0d5b0a91589",
+    "domain": "doltmestay.co.kr",
+    "templateType": "trip_d",
+    "images": [
+      {
+        "logo": [ ]
+      }
+    ],
+    "seo": {
+      "title": "",
+      "description": "",
+      "keywords": "",
+      "naverSiteVerification": "",
+      "googleSiteVerification": ""
+    },
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
+    "customFields": {
+      "pages": {
+        "index": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "closing": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "essence": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "gallery": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "signature": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "directions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ]
+              },
+              "notice": {
+                "title": "",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "main": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": [ ]
+            }
+          ]
+        },
+        "room": [ ],
+        "facility": [ ],
+        "reservation": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ]
+              },
+              "about": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              }
+            }
+          ]
+        },
+        "nearbyAttractions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": [ ],
+              "enabled": false
+            }
+          ]
+        },
+        "layoutMap": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "enabled": false
+            }
+          ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "hero": {
+                "images": [ ]
+              },
+              "about": [ ],
+              "enabled": false
+            }
+          ]
+        }
+      },
+      "popup": {
+        "popups": [ ]
+      },
+      "theme": {
+        "font": {
+          "koMain": null,
+          "koSub": null,
+          "enMain": null
+        },
+        "color": null
+      },
+      "property": {
+        "name": "경주 돌트미스테이",
+        "images": [ ],
+        "nameEn": "Dolt Me Stay"
+      },
+      "roomtypes": [
+        {
+          "id": "01a15cdf-6e37-7a28-a60e-54a3092547eb",
+          "images": [ ]
+        }
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
+    }
+  }
+}
