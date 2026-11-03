@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.29.0",
-    "generatedAt": "2026-11-02T09:59:34.589963739Z",
+    "version": "1.30.0",
+    "generatedAt": "2026-11-03T09:58:52.024126872Z",
     "templateType": "trip_d",
     "propertyId": "01a1423a-2791-713c-bb2c-499657cea034",
     "homepageId": "01a19aca-a0ae-77a9-8bc5-b0d5b0a91589"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분",
-    "usageGuide": "[공지사항]\n※ 실내 전체 금연, 보호자 동반 없는 미성년자 투숙 불가\n※ 평일 출장이나 힐스카이cc 이용 고객님 바베큐 이용 없이 숙박만 하시는 분  30%할인\n※ 애견 동반 불가\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 84개월 이상~14세 미만\n- 유아: 84개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n\n[개별바베큐]\n- 이용 장소: 독채 마당 \n- 바베큐 형태: 숯불 바베큐\n- 제공 구성: 숯, 그릴\n- 이용 요금: 30,000원(1박기준/현장결제)\n- 신청 시간:  ~ 17:00\n- 이용 시간: ~ 22:00\n- 우천 시: 이용 불가\n- 강풍 시: 이용 불가\n- 동계 시: 이용 가능\n※ 추가 인원 요금, 준비 소요시간은 없습니다.\n※ 음식, 식기류는 객실 내 용품 이용해주시고 양념은 개인별로 직접 준비하셔야 합니다.\n※ 쾌적한 객실 환경 유지 및 화재 예방을 위해 객실 내(실내)에서는 육류 및 생선류 구이가 엄격히 금지됩니다.\n\n[불멍]\n- 운영 기간: 사계절 이용 가능\n- 이용 장소: 독채 전용 마당\n- 제공 구성: 화롯대, 장작, 오로라 가루, 토치, 장갑 등 불멍 세트\n- 이용 요금: 30,000원(1박기준/현장결제) \n- 신청 시간: ~17:00\n- 이용 시간: ~22:00\n- 우천 시: 불가\n※ 강풍 시: 이용 불가 \n※ 동계 시: 이용 가능\n※ 개인 불멍 용품(화롯대, 연료 등) 지참 불가\n※ 외부 장작 반입 불가 (숙소 제공 정품 장작 및 전용 장비만 사용 가능)\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- OTT (넷플릭스, 디즈니+, 티빙) 이용 가능\n※ 개인계정 필요\n- 화장실 및 출입구 휠체어 이용 가능\n- 화재감지기: 보유\n- 일산화탄소감지기: 보유\n\n[주변 관광지]\n- 보문관광단지: 차량 약 10분\n- 경주 루지월드 / 경주월드: 차량 약 15분\n- 황리단길 / 첨성대: 차량 약 20분\n\n[주차장]\n- 주차장: 보유\n- 이용 요금: 무료\n- 주차 대수: 4대\n- 위치: 숙소 앞 마당\n\n[전기차 충전기 이용 금액]\n- 소형 12,000  \n- 중형 16,000 \n- 대형SUV 24,000\n\n[교통편]\n- 대중교통: 경주시외버스터미널/경주역(KTX)에서 천북면 방면 시내버스 이용 후 도보 이동\n※ 배차 간격이 길어 택시 또는 자가용 이용 권장",
+    "usageGuide": "[공지사항]\n※ 실내 전체 금연, 보호자 동반 없는 미성년자 투숙 불가\n※ 평일 출장이나 힐스카이cc 이용 고객님 바베큐 이용 없이 숙박만 하시는 분  30%할인\n※ 애견 동반 불가\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 84개월 이상~14세 미만\n- 유아: 84개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n\n[개별바베큐]\n- 이용 장소: 독채 마당 \n- 바베큐 형태: 숯불 바베큐\n- 제공 구성: 숯, 그릴\n- 이용 요금: 30,000원(1박기준/현장결제)\n- 신청 시간:  ~ 17:00\n- 이용 시간: ~ 22:00\n- 우천 시: 이용 불가\n- 강풍 시: 이용 불가\n- 동계 시: 이용 가능\n※ 추가 인원 요금, 준비 소요시간은 없습니다.\n※ 음식, 식기류는 객실 내 용품 이용해주시고 양념은 개인별로 직접 준비하셔야 합니다.\n※ 쾌적한 객실 환경 유지 및 화재 예방을 위해 객실 내(실내)에서는 육류 및 생선류 구이가 엄격히 금지됩니다.\n\n[불멍]\n- 운영 기간: 사계절 이용 가능\n- 이용 장소: 독채 전용 마당\n- 제공 구성: 화롯대, 장작, 오로라 가루, 토치, 장갑 등 불멍 세트\n- 이용 요금: 30,000원(1박기준/현장결제) \n- 신청 시간: ~17:00\n- 이용 시간: ~22:00\n- 우천 시: 불가\n※ 강풍 시: 이용 불가 \n※ 동계 시: 이용 가능\n※ 개인 불멍 용품(화롯대, 연료 등) 지참 불가\n※ 외부 장작 반입 불가 (숙소 제공 정품 장작 및 전용 장비만 사용 가능)\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- OTT (넷플릭스, 디즈니+, 티빙) 이용 가능\n※ 개인계정 필요\n- 화장실 및 출입구 휠체어 이용 가능\n- 화재감지기: 보유\n- 일산화탄소감지기: 보유\n\n[주변 관광지]\n- 보문관광단지: 차량 약 10분\n- 경주 루지월드 / 경주월드: 차량 약 15분\n- 황리단길 / 첨성대: 차량 약 20분\n\n[주차장]\n- 주차장: 보유\n- 이용 요금: 무료\n- 주차 대수: 4대\n- 위치: 숙소 앞 마당\n\n[전기차 충전기]\n- 보유\n- 이용금액: 무료\n- 이용 시간: 22:00~06:00\n\n[교통편]\n- 대중교통: 경주시외버스터미널/경주역(KTX)에서 천북면 방면 시내버스 이용 후 도보 이동\n※ 배차 간격이 길어 택시 또는 자가용 이용 권장",
     "reservationGuide": "※ 실내 전체 금연, 보호자 동반 없는 미성년자 투숙 불가\n※ 평일 출장이나 힐스카이cc 이용 고객님 바베큐 이용 없이 숙박만 하시는 분  30%할인\n※ 애견 동반 불가",
     "province": "도/시",
     "city": "시/군/구",
@@ -139,7 +139,7 @@
         "id": "01a15d0c-6ed0-7290-854b-ddcdbbe36f58",
         "name": "불멍",
         "description": "",
-        "usageGuide": "- 운영 기간: 연중무휴\n- 이용 장소: 독채 전용 마당\n- 제공 구성: 화롯대, 장작, 오로라 가루, 토치, 장갑 등 불멍 세트\n- 이용 요금: 30,000원(1박기준/현장결제) \n- 신청 시간: ~17:00\n- 이용 시간:  ~ 22:00\n- 우천 시: 불가\n※ 강풍 시: 이용 불가 \n※ 동계 시: 이용 가능\n※ 개인 불멍 용품(화롯대, 연료 등) 지참 불가\n※ 외부 장작 반입: 불가 (숙소 제공 정품 장작 및 전용 장비만 사용 가능)",
+        "usageGuide": "- 운영 기간: 사계절 이용 가능\n- 이용 장소: 독채 전용 마당\n- 제공 구성: 화롯대, 장작, 오로라 가루, 토치, 장갑 등 불멍 세트\n- 이용 요금: 30,000원(1박기준/현장결제) \n- 신청 시간: ~17:00\n- 이용 시간: ~22:00\n- 우천 시: 불가\n※ 강풍 시: 이용 불가 \n※ 동계 시: 이용 가능\n※ 개인 불멍 용품(화롯대, 연료 등) 지참 불가\n※ 외부 장작 반입 불가 (숙소 제공 정품 장작 및 전용 장비만 사용 가능)",
         "displayOrder": 2,
         "images": [
           {
@@ -205,7 +205,7 @@
         "id": "01a15d0c-6ed0-7598-9c5e-df1b8d422bf3",
         "name": "편의 및 주변 시설",
         "description": "",
-        "usageGuide": "- 화장실 및 출입구 휠체어 이용 가능\n- 와이파이: 보유\n- 화재감지기: 보유\n- 일산화탄소감지기: 보유\n- 넷플릭스 이용: 가능\n※ 넷플릭스 개인계정 필요\n- OTT ,디즈니+, 티빙가능 : 가능\n※ OTT,  디즈니+, 티빙 개인계정 필요: 필요\n- 보문관광단지: 차량 약 10분\n- 경주 루지월드 / 경주월드: 차량 약 15분\n- 황리단길 / 첨성대: 차량 약 20분",
+        "usageGuide": "- 와이파이 보유\n- OTT (넷플릭스, 디즈니+, 티빙) 이용 가능\n※ 개인계정 필요\n- 화장실 및 출입구 휠체어 이용 가능\n- 화재감지기: 보유\n- 일산화탄소감지기: 보유\n\n[주변 관광지]\n- 보문관광단지: 차량 약 10분\n- 경주 루지월드 / 경주월드: 차량 약 15분\n- 황리단길 / 첨성대: 차량 약 20분",
         "displayOrder": 4,
         "images": [
           {
@@ -506,7 +506,7 @@
         {
           "thumbnail": [
             {
-              "id": "01a19ba6-1308-7ffb-bd58-11d988a3bff9",
+              "id": "01a1a0d8-b056-7245-aaa9-1c99b4e80899",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/dXlA6wJHhaNq.jpg",
               "sortOrder": 15,
               "description": "",
@@ -516,7 +516,7 @@
           ],
           "interior": [
             {
-              "id": "01a19ba6-1309-724d-b426-f3f684422b96",
+              "id": "01a1a0d8-b056-7256-a2d1-5026bcb988d9",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/EuYrMmaP9G3C.jpg",
               "sortOrder": 16,
               "description": "",
@@ -524,7 +524,7 @@
               "blockId": null
             },
             {
-              "id": "01a19ba6-1309-7566-a922-cc1a5a748bde",
+              "id": "01a1a0d8-b056-7269-94fe-c74a882be637",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/9ZvYteGP6j0A.jpg",
               "sortOrder": 17,
               "description": "",
@@ -532,7 +532,7 @@
               "blockId": null
             },
             {
-              "id": "01a19ba6-1309-777b-b40c-d75d87a58c10",
+              "id": "01a1a0d8-b056-7284-9b5e-c1d8d91d3291",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/ujdzsWm4E7r9.jpg",
               "sortOrder": 18,
               "description": "",
@@ -540,7 +540,7 @@
               "blockId": null
             },
             {
-              "id": "01a19ba6-1309-7970-8a0f-5aeea0b8706b",
+              "id": "01a1a0d8-b056-7346-8ee5-d1c7ac7f8f9b",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/Bc3Mz9F8Ubsk.jpg",
               "sortOrder": 19,
               "description": "",
@@ -548,7 +548,7 @@
               "blockId": null
             },
             {
-              "id": "01a19ba6-1309-7baa-8956-d63d8286a9b9",
+              "id": "01a1a0d8-b056-7361-933e-a5096765fd65",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/EujYcFNMbzGd.jpg",
               "sortOrder": 20,
               "description": "",
@@ -556,7 +556,7 @@
               "blockId": null
             },
             {
-              "id": "01a19ba6-1309-7e68-b69d-fe66ba4b92a4",
+              "id": "01a1a0d8-b056-7375-8e9d-6cdc2a39894a",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/cX6nsTHQjP79.jpg",
               "sortOrder": 21,
               "description": "",
@@ -564,7 +564,7 @@
               "blockId": null
             },
             {
-              "id": "01a19ba6-130a-7174-b8aa-b55fa07abe8f",
+              "id": "01a1a0d8-b056-7388-9915-20ee453ab612",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/h1yedorD3Vn6.jpg",
               "sortOrder": 22,
               "description": "",
@@ -572,7 +572,7 @@
               "blockId": null
             },
             {
-              "id": "01a19ba6-130a-7457-a94d-aa25b7554a5c",
+              "id": "01a1a0d8-b056-739a-b3c6-282fa9ce5d03",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/BChqon1RPLS5.jpg",
               "sortOrder": 23,
               "description": "",
@@ -580,7 +580,7 @@
               "blockId": null
             },
             {
-              "id": "01a19ba6-130a-76f7-8edf-dc0d0468acbc",
+              "id": "01a1a0d8-b056-73b4-afca-65d12b0731d1",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/YxhBgvPGzAqF.jpg",
               "sortOrder": 24,
               "description": "",
@@ -588,7 +588,7 @@
               "blockId": null
             },
             {
-              "id": "01a19ba6-130a-79d0-bae6-53245e78942e",
+              "id": "01a1a0d8-b056-73c8-848f-6d06accaba20",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/hlkD79fXTa0I.jpg",
               "sortOrder": 25,
               "description": "",
@@ -596,7 +596,7 @@
               "blockId": null
             },
             {
-              "id": "01a19ba6-130a-7c2a-9255-5c1973cd517e",
+              "id": "01a1a0d8-b056-73e3-bf07-34098674ddf5",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/dDFAWyxQ3pZJ.jpg",
               "sortOrder": 26,
               "description": "",
@@ -604,7 +604,7 @@
               "blockId": null
             },
             {
-              "id": "01a19ba6-1311-7084-9c54-50f889cee4d8",
+              "id": "01a1a0d8-b056-73f5-b157-3452885d371f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/RQyO9EYqrAeI.jpg",
               "sortOrder": 27,
               "description": "",
@@ -612,7 +612,7 @@
               "blockId": null
             },
             {
-              "id": "01a19ba6-1311-7a64-9684-5ab373171f00",
+              "id": "01a1a0d8-b056-740c-9b62-407e0b4eaf4f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/Ah78WgEV0Fdl.jpg",
               "sortOrder": 28,
               "description": "",
